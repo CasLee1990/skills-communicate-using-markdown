@@ -6,3 +6,8 @@
 var myVar = "Hello, world!";
 ```
 </pre>
+
+Am I doing this right?
+- [ ] Yes
+- [ ] No
+- [ ] Maybe
